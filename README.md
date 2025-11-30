@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about ma
 
 # 🚀 About Me
 
-  • 🎯 Aspiring to be the best competitive programmer in my university. <br>
-  • ⚡ I believe that consistent practice, learning from mistakes, and strong fundamentals are the keys to success.
+  🎯 Aspiring to be the best competitive programmer in my university. <br>
+  ⚡ I believe that consistent practice, learning from mistakes, and strong fundamentals are the keys to success. <br>
 
 
 # 🔥 My Skill Set
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about ma
 
 # 🎯 My Goals
 
-  • Build AI-driven projects that can solve real-world problems.
-  • Continuously grow my understanding of Machine Learning and Neural Networks.
+  • Build AI-driven projects that can solve real-world problems. <br>
+  • Continuously grow my understanding of Machine Learning and Neural Networks. <br>
 
 
 # 📌 Let's Connect!
