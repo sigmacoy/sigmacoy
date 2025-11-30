@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Mc Cauley!
 
-Welcome to my GitHub profile! I'm a Computer Science student passionate about mastering and diving deep into Artificial Intelligence.
+Welcome to my GitHub profile! <br>
+I'm a Computer Science student passionate about mastering and diving deep into Artificial Intelligence.
 
 # 🚀 About Me
 
@@ -31,4 +32,4 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about ma
 
 
 
-"The final step of learning is application."
+<br> "The final step of learning is application."
