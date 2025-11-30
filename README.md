@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I'm Mc Cauley!
 
-<!--
-**sigmacoy/sigmacoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student passionate about mastering and diving deep into Artificial Intelligence.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  • 🎯 Aspiring to be the best competitive programmer in my university.
+  • ⚡ I believe that consistent practice, learning from mistakes, and strong fundamentals are the keys to success.
+
+
+🔥 My Skill Set
+
+  • 
+
+🌱 Currently Learning
+
+
+🎯 My Goals
+
+  • Build AI-driven projects that can solve real-world problems.
+  • Continuously grow my understanding of Machine Learning and Neural Networks.
+
+
+📌 Let's Connect!
+
+  LinkedIn: https://www.linkedin.com/in/mc-cauley-bacalla-a4274a363/
+  
+  Email: macoybacalla9@gmail.com
+
+
+
+
+
+"The final step of learning is application."
