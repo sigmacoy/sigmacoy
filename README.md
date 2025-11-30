@@ -2,26 +2,26 @@
 
 Welcome to my GitHub profile! I'm a Computer Science student passionate about mastering and diving deep into Artificial Intelligence.
 
-🚀 About Me
+# 🚀 About Me
 
-  • 🎯 Aspiring to be the best competitive programmer in my university.
+  • 🎯 Aspiring to be the best competitive programmer in my university. <br>
   • ⚡ I believe that consistent practice, learning from mistakes, and strong fundamentals are the keys to success.
 
 
-🔥 My Skill Set
+# 🔥 My Skill Set
 
   • 
 
-🌱 Currently Learning
+# 🌱 Currently Learning
+  •
 
-
-🎯 My Goals
+# 🎯 My Goals
 
   • Build AI-driven projects that can solve real-world problems.
   • Continuously grow my understanding of Machine Learning and Neural Networks.
 
 
-📌 Let's Connect!
+# 📌 Let's Connect!
 
   LinkedIn: https://www.linkedin.com/in/mc-cauley-bacalla-a4274a363/
   
