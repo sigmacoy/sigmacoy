@@ -29,7 +29,4 @@ I'm a Computer Science student passionate about mastering and diving deep into A
   Email: macoybacalla9@gmail.com
 
 
-
-
-<br>
-# "The final step of learning is application."
+<br> "The final step of learning is application."
