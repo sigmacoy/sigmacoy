@@ -32,4 +32,4 @@ I'm a Computer Science student passionate about mastering and diving deep into A
 
 
 
-<br> "The final step of learning is application."
+<br> # "The final step of learning is application."
