@@ -3,20 +3,20 @@
 Welcome to my GitHub profile! <br>
 I'm a Computer Science student passionate about mastering and diving deep into Artificial Intelligence.
 
-# 🚀 About Me
+## 🚀 About Me
 
-  🎯 Aspiring to be the best competitive programmer in my university. <br>
+  🎯 Aspiring to become AI/ML Engineer. <br>
   ⚡ I believe that consistent practice, learning from mistakes, and strong fundamentals are the keys to success. <br>
 
 
-# 🔥 My Skill Set
+## 🔥 My Skill Set
 
+  • C, C++, Java, Python, Git and Github
+
+## 🌱 Currently Learning
   • 
 
-# 🌱 Currently Learning
-  •
-
-# 🎯 My Goals
+## 🎯 My Goals
 
   • Build AI-driven projects that can solve real-world problems. <br>
   • Continuously grow my understanding of Machine Learning and Neural Networks. <br>
