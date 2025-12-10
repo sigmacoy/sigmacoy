@@ -6,7 +6,7 @@ I'm a Computer Science student passionate about mastering and diving deep into A
 ## 🚀 About Me
 
   🎯 Aspiring to become AI/ML Engineer. <br>
-  ⚡ I believe that consistent practice, learning from mistakes, and strong fundamentals are the keys to success. <br>
+  ⚡ I love reading and solving problems at [GeeksforGeeks](https://www.geeksforgeeks.org) website. <br>
 
 
 ## 🔥 My Skill Set
