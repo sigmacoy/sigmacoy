@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mc Cauley!
 
 Welcome to my GitHub profile! <br>
-I'm a Computer Science student passionate about mastering and diving deep into Artificial Intelligence.
+I'm a Computer Science student passionate about diving deep into Artificial Intelligence.
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@ I'm a Computer Science student passionate about mastering and diving deep into A
   • C, C++, Java, Python, Git and Github
 
 ## 🌱 Currently Learning
-  • 
+  • DSA
 
 ## 🎯 My Goals
 
