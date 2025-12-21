@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Mc Cauley!
 
 Welcome to my GitHub profile! <br>
-I'm a Computer Science student passionate about diving deep into Artificial Intelligence.
+I'm a Computer Science student, passionate about both AI and Quantitative Development as career paths.
 
 ## 🚀 About Me
 
-  🎯 Aspiring to become AI/ML Engineer. <br>
-  🤓 I love solving problems on [Leetcode](https://leetcode.com/u/xhieczi/). <br>
+  🎯 Aspiring to become AI/ML Engineer or Quant Dev. <br>
+  🤓 I love solving problems on [Leetcode](https://leetcode.com/u/xhieczi/) using C++. <br>
 
 
 ## 🔥 My Skill Set
