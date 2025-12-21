@@ -30,3 +30,4 @@ I'm a Computer Science student, passionate about both AI and Quantitative Develo
 
 
 <br> "The final step of learning is application."
+<br> "Everything behind it, exist an algorithm."
