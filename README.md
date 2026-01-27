@@ -5,8 +5,8 @@ I'm a Computer Science student, passionate about both AI and Quantitative Develo
 
 ## About Me
 
-  🎯 Aspiring to become AI/ML Engineer or Quant Dev. <br>
-  🤓 I love solving problems on [Leetcode](https://leetcode.com/u/xhieczi/) using C++. <br>
+  Aspiring to become AI/ML Engineer or Quant Dev. <br>
+  I love solving problems on [Leetcode](https://leetcode.com/u/xhieczi/) using C++. <br>
 
 
 ## My Skill Set
