@@ -15,6 +15,8 @@ I'm a Computer Science student, passionate about both AI and Quantitative Develo
 
 ## Currently Learning
   • DSA
+  • Backend Development
+  • SQL and Database
 
 ## My Goals
 
