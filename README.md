@@ -14,9 +14,9 @@ I'm a Computer Science student, passionate about both AI and Quantitative Develo
   • C, C++, Java, Python, Git and Github
 
 ## Currently Learning
-  • DSA
-  • Backend Development
-  • SQL and Database
+  • DSA <br>
+  • Frontend and Backend Development in Java <br>
+  • SQL and Database <br>
 
 ## My Goals
 
