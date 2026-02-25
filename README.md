@@ -16,7 +16,7 @@ I'm a Computer Science student, passionate about both AI Engineer as career path
 ## Currently Learning
   • DSA <br>
   • Frontend and Backend Development in Java <br>
-  • SQL and Database <br>
+  • MySQL and PostgreSQL <br>
 
 ## My Goals
 
