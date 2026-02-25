@@ -1,7 +1,7 @@
 # Hello, I'm Mc Cauley!
 
 Welcome to my GitHub profile! <br>
-I'm a Computer Science student, passionate about both AI and Quantitative Development as career paths.
+I'm a Computer Science student, passionate about both AI Engineer as career path and with a goal to master C++..
 
 ## About Me
 
