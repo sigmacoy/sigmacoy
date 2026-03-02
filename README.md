@@ -1,7 +1,7 @@
 # Hello, I'm Mc Cauley!
 
 Welcome to my GitHub profile! <br>
-I'm a Computer Science student, passionate about both AI Engineer as career path and with a goal to master C++..
+I'm a Computer Science student, passionate about both AI Engineer as career path and with a goal to master C++.
 
 ## About Me
 
@@ -14,8 +14,10 @@ I'm a Computer Science student, passionate about both AI Engineer as career path
   • C, C++, Java, Python, Git and Github
 
 ## Currently Learning
-  • DSA <br>
+  • DSA and Leetcode <br>
   • Frontend and Backend Development in Java <br>
+  • Android & Mobile Development (Kotlin)
+  • PHP as Backend for Website
   • MySQL and PostgreSQL <br>
 
 ## My Goals
