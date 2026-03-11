@@ -1,7 +1,6 @@
 # Hello, I'm Mc Cauley!
 
-Welcome to my GitHub profile! <br>
-• I'm a Computer Science student, passionate about both AI Engineer as career path and with a goal to master C++.
+• a Computer Science student, passionate about both AI Engineer as career path and with a goal to master C++ and [Leetcode](https://leetcode.com/u/xhieczi/).
 
 ## About Me
 
