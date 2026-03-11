@@ -4,9 +4,7 @@
 
 ## About Me
 
-  • Self-learner <br>
-  • I love solving problems on [Leetcode](https://leetcode.com/u/xhieczi/) using C++. <br>
-
+  • Self-learner and love solving problems.
 
 ## My Skill Set
 
