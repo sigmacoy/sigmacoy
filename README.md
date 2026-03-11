@@ -5,7 +5,7 @@ I'm a Computer Science student, passionate about both AI Engineer as career path
 
 ## About Me
 
-  Aspiring to become AI/ML Engineer or Quant Dev. <br>
+  Self-learner
   I love solving problems on [Leetcode](https://leetcode.com/u/xhieczi/) using C++. <br>
 
 
