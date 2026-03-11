@@ -5,7 +5,7 @@ I'm a Computer Science student, passionate about both AI Engineer as career path
 
 ## About Me
 
-  Self-learner
+  Self-learner <br>
   I love solving problems on [Leetcode](https://leetcode.com/u/xhieczi/) using C++. <br>
 
 
