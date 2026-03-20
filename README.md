@@ -1,6 +1,6 @@
 # Hello, I'm Mc Cauley!
 
-• a Computer Science student, passionate about both AI Engineer as career path and with a goal to master C++ and [Leetcode](https://leetcode.com/u/xhieczi/).
+• a Computer Science student, passionate about both AI Engineer as career path.
 
 ## About Me
 
@@ -16,6 +16,7 @@
   • Android & Mobile Development (Kotlin)
   • PHP as Backend for Website
   • MySQL and PostgreSQL <br>
+  • [Leetcode](https://leetcode.com/u/xhieczi/)
 
 ## My Goals
 
