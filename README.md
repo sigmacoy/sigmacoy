@@ -13,8 +13,8 @@
 ## Currently Learning
   • DSA and Leetcode <br>
   • Frontend and Backend Development in Java <br>
-  • Android & Mobile Development (Kotlin)
-  • PHP as Backend for Website
+  • Android & Mobile Development (Kotlin) <br>
+  • PHP as Backend for Website <br>
   • MySQL and PostgreSQL <br>
   • [Leetcode](https://leetcode.com/u/xhieczi/)
 
