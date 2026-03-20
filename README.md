@@ -11,12 +11,11 @@
   • C, C++, Java, Python, Git and Github
 
 ## Currently Learning
-  • DSA and Leetcode <br>
+  • DSA and [Leetcode](https://leetcode.com/u/xhieczi/) <br>
   • Frontend and Backend Development in Java <br>
   • Android & Mobile Development (Kotlin) <br>
   • PHP as Backend for Website <br>
   • MySQL and PostgreSQL <br>
-  • [Leetcode](https://leetcode.com/u/xhieczi/)
 
 ## My Goals
 
