@@ -1,6 +1,6 @@
 # Hello, I'm Mc Cauley!
 
-• a Computer Science student, passionate about both AI Engineer as career path.
+• a Computer Science student, focused on pursuing a career as a Full-Stack SWE and AI Engineer.
 
 ## About Me
 
@@ -17,17 +17,9 @@
   • PHP as Backend for Website <br>
   • MySQL and PostgreSQL <br>
 
-## My Goals
-
-  • Build AI-driven projects that can solve real-world problems. <br>
-  • Continuously grow my understanding of Machine Learning and Neural Networks. <br>
-
 
 # Let's Connect!
 
   LinkedIn: https://www.linkedin.com/in/mc-cauley-bacalla-a4274a363/
   
   Email: macoybacalla9@gmail.com
-
-
-# "The final step of learning is application."
