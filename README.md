@@ -5,8 +5,8 @@
 
 ## About Me
 
-  • Self-learner and love solving problems.
-  • Even complex code becomes simple when you truly understand it.
+  • Self-learner and love solving problems. <br>
+  • I believe complex codebase becomes simple when you truly understand it. <br>
 
 ## My Skill Set
 
