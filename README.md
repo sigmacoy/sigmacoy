@@ -2,7 +2,8 @@
 
 ### A Computer Science student at Cebu Institute of Technology - University
 ### Focused on pursuing a career as a Full-Stack SWE and AI Engineer.
-
+<br>
+<br>
 ## About Me
 
   • Self-learner and love solving problems.
