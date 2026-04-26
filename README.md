@@ -1,6 +1,7 @@
 # Hello, I'm Mc Cauley!
 
-• a Computer Science student, focused on pursuing a career as a Full-Stack SWE and AI Engineer.
+• A Computer Science student at Cebu Institute of Technology - University
+• Focused on pursuing a career as a Full-Stack SWE and AI Engineer.
 
 ## About Me
 
