@@ -6,13 +6,14 @@
 ## About Me
 
   • Self-learner and love solving problems.
+  • Even complex code becomes simple when you truly understand it.
 
 ## My Skill Set
 
   • C, C++, Java, Python, Git and Github
 
 ## Currently Learning
-  • DSA and [Leetcode](https://leetcode.com/u/xhieczi/) <br>
+  • DSA problems and SQL problems on [Leetcode](https://leetcode.com/u/xhieczi/) <br>
   • Frontend and Backend Development in Java <br>
   • Android & Mobile Development (Kotlin) <br>
   • PHP as Backend for Website <br>
