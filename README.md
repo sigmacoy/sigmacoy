@@ -8,6 +8,11 @@
   • Self-learner and love solving problems through repetitions and pattern-recognition. <br>
   • I believe complex codebase becomes simple when you truly understand it. <br>
 
+## Goals
+
+  • To work for an overseas company as a Filipino and relocate abroad for that job position. <br>
+  • It is my dream to work overseas and I am fully committed to making it happen. <br>
+
 ## My Skill Set
 
   • C, C++, Java, Python, Git and Github
@@ -18,10 +23,6 @@
   • Android & Mobile Development (Kotlin) <br>
   • PHP as Backend for Website <br>
   • MySQL and PostgreSQL <br>
-
-## Goals
-  • To work for an overseas company as a Filipino and relocate abroad for that job position. <br>
-  • It is my dream to work overseas and I am fully committed to making it happen. <br>
 
 
 # Let's Connect!
