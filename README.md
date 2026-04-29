@@ -19,6 +19,10 @@
   • PHP as Backend for Website <br>
   • MySQL and PostgreSQL <br>
 
+## Goals
+  • To work for an overseas company and relocate abroad for that job position. <br>
+  • It is my dream to work overseas, and I am fully committed to making it happen. <br>
+
 
 # Let's Connect!
 
