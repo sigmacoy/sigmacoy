@@ -5,7 +5,7 @@
 
 ## About Me
 
-  • Self-learner and love solving problems. <br>
+  • Self-learner and love solving problems through repetitions and pattern-recognition. <br>
   • I believe complex codebase becomes simple when you truly understand it. <br>
 
 ## My Skill Set
