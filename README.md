@@ -1,6 +1,6 @@
 # Hello, I'm Mc Cauley!
 
-• A Computer Science student at Cebu Institute of Technology - University <br>
+• A Computer Science student at Cebu Institute of Technology - University (PACUCOA Level IV accredited) <br>
 • Focused on pursuing a career as a Full-Stack SWE and AI Engineer. <br>
 
 ## About Me
