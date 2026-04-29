@@ -15,7 +15,7 @@
 
 ## My Skill Set
 
-  • C, C++, Java, Python, Git and Github
+  • C, C++, Java, Kotlin, Python, PHP, Git and Github
 
 ## Currently Learning
   • DSA problems and SQL problems on [Leetcode](https://leetcode.com/u/xhieczi/) <br>
