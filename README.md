@@ -7,7 +7,7 @@
 
 ## Goals
 
-  • To work for an overseas company as a Filipino and relocate abroad for that job position. <br>
+  • To work for an overseas company as a Filipino and be willing to go abroad for that job position. <br>
 
 ## Currently Learning
   • DSA problems and SQL problems on [Leetcode](https://leetcode.com/u/xhieczi/) <br>
