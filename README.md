@@ -10,7 +10,7 @@
   • To work for an overseas company as a Filipino and be willing to go abroad for that job position. <br>
 
 ## Currently Learning
-  • DSA problems and SQL problems on [Leetcode](https://leetcode.com/u/xhieczi/) <br>
+  • Competitive Programming on [Leetcode](https://leetcode.com/u/xhieczi/) <br>
   • Frontend and Backend Development (JavaFX GUI) in Java <br>
   • Android & Mobile Development (Kotlin) <br>
   • PHP as Backend for Website <br>
