@@ -15,5 +15,5 @@
   • MySQL and PostgreSQL <br>
 
 # Let's Connect!
-  LinkedIn: https://www.linkedin.com/in/mc-cauley-bacalla-a4274a363/
+  LinkedIn: https://www.linkedin.com/in/mc-cauley-bacalla-a4274a363/ <br>
   Email: macoybacalla9@gmail.com
