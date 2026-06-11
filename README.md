@@ -1,7 +1,7 @@
 # Hello, I'm Mc Cauley!
 
 • A Computer Science student at Cebu Institute of Technology - University **(PACUCOA Level IV accredited)** <br>
-• Focused on pursuing a career as a **System Engineer** or **AI Engineer**. <br>
+• Focused on pursuing a career as a  **Junior Software Engineer** or **Junior AI Engineer**. <br>
 • Self-learner and love solving problems through repetitions and pattern-recognition. <br>
 
 ## Goals
