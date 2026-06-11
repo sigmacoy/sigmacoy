@@ -11,8 +11,8 @@
   • Competitive Programming on [Leetcode](https://leetcode.com/u/xhieczi/) <br>
   • Frontend and Backend Development (JavaFX GUI) in Java <br>
   • Android & Mobile Development (Kotlin) <br>
-  • PHP as Backend for Website <br>
-  • MySQL and PostgreSQL <br>
+  • PHP, MySQL and PostgreSQL <br>
+  
 
 # Let's Connect!
   • [LinkedIn](https://www.linkedin.com/in/mc-cauley-bacalla-a4274a363/) <br>
