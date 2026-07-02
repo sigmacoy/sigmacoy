@@ -18,5 +18,5 @@
   • [LinkedIn](https://www.linkedin.com/in/mc-cauley-bacalla-a4274a363/) <br>
   • [Email](macoybacalla9@gmail.com) <br>
   
-
+---
 *Keizoku wa chikara nari*
