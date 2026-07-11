@@ -5,7 +5,7 @@
 • Self-learner and love solving problems through repetitions and pattern-recognition. <br>
 
 ## Goals
-  • To work for an overseas company as a Filipino and be willing to go abroad for that job position. <br>
+  • To secure a role in an overseas company and dedicate my hard work toward its success. <br>
 
 ## Currently Learning
   • Competitive Programming on [Leetcode](https://leetcode.com/u/xhieczi/) <br>
