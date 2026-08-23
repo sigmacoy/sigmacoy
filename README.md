@@ -9,8 +9,8 @@
 
 ## Currently Learning
   • Competitive Programming on [Leetcode](https://leetcode.com/u/xhieczi/) <br>
-  • Frontend and Backend Development (JavaFX GUI) in Java <br>
-  • Android & Mobile Development (Kotlin) <br>
+  • Frontend/Backend JavaScript: React, Vue, Next
+  • C# .NET: Intelligent Systems 1 (desktop applications)
   • PHP, MySQL and PostgreSQL <br>
   
 
