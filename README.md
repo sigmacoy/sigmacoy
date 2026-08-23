@@ -10,7 +10,7 @@
 ## Currently Learning
   • Competitive Programming on [Leetcode](https://leetcode.com/u/sigmacoy/) <br>
   • Frontend/Backend JavaScript: React, Vue, Next <br>
-  • Intelligent Systems 1: C# .NET (integrated with NumPy, SciPy, OpenCV, Scikit-Learn/Fuzzy, ROS2, Webots) <br>
+  • Intelligent Systems 1: Integrated with C# .NET, NumPy, SciPy, OpenCV, Scikit-Learn/Fuzzy, ROS2, Webots <br>
   • PHP, MySQL and PostgreSQL <br>
   • Python for our Applied AI course <br>
 
