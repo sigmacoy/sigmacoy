@@ -12,7 +12,7 @@
   • Frontend/Backend JavaScript: React, Vue, Next <br>
   • Intelligent Systems 1: C# .NET (integrated with NumPy, SciPy, OpenCV, Scikit-Learn/Fuzzy, ROS2, Webots) <br>
   • PHP, MySQL and PostgreSQL <br>
-  • Python for Applied AI Course <br>
+  • Python for our Applied AI course <br>
 
 # Let's Connect!
   • [LinkedIn](https://www.linkedin.com/in/mc-cauley-bacalla-a4274a363/) <br>
