@@ -8,9 +8,9 @@
   • To secure a role in an overseas company and dedicate my hard work toward its success. <br>
 
 ## Currently Learning
-  • Competitive Programming on [Leetcode](https://leetcode.com/u/xhieczi/) <br>
-  • Frontend/Backend JavaScript: React, Vue, Next
-  • C# .NET: Intelligent Systems 1 (desktop applications)
+  • Competitive Programming on [Leetcode](https://leetcode.com/u/sigmacoy/) <br>
+  • Frontend/Backend JavaScript: React, Vue, Next <br>
+  • C# .NET: Intelligent Systems 1 (desktop applications) <br>
   • PHP, MySQL and PostgreSQL <br>
   
 
