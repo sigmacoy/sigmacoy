@@ -16,7 +16,7 @@
 
 # Let's Connect!
   • [LinkedIn](https://www.linkedin.com/in/mc-cauley-bacalla-a4274a363/) <br>
-  • [Email](macoybacalla9@gmail.com) <br>
+  • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=macoybacalla9@gmail.com&su=Hello&body=Hi%20there) <br>
   
 ---
 *Keizoku wa chikara nari*
